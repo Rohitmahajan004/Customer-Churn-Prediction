@@ -22,12 +22,6 @@ It allows both **single-customer predictions** and **bulk predictions via CSV up
 
 ---
 
-## 🖼️ Screenshot  
-![App Screenshot](your_screenshot.png)  
-*(Replace `your_screenshot.png` with actual image path from repo, e.g., `/images/app.png`)*  
-
----
-
 ## 📂 Project Structure  
 ├── churn_model.pkl # Trained ML model
 ├── feature_names.pkl # Feature names for prediction
@@ -37,8 +31,7 @@ It allows both **single-customer predictions** and **bulk predictions via CSV up
 ├── notebooks/ # Jupyter notebooks (EDA & Model training)
 └── README.md # Project documentation
 
-yaml
-Copy code
+
 
 ---
 
@@ -111,3 +104,4 @@ Key features influencing churn: Contract type, Tenure, Internet service, Monthly
 👨‍💻 Author
 Rohit Mahajan
 📧 rohitmahajan123bca@gmail.com
+
